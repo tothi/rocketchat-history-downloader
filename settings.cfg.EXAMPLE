@@ -5,6 +5,8 @@ history_statefile = rocketchat-history-statefile.pkl
 [rc-api]
 user = username_goes_here
 pass = pwd_goes_here
+# user_id = alternative_auth_X-User-Id
+# auth_token = alternative_auth_X-Auth-Token
 server = https://demo.rocket.chat
 max_msg_count_per_day = 99999
 pause_seconds = 1

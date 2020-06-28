@@ -41,6 +41,8 @@ max_msg_count_per_day = 99999
 pause_seconds = 1
 ```
 
+You may use `user_id` and `auth_token` instead of `user` and `pass` as an alternative authentication.
+
 ## Usage
 
 Download all not-previously-downloaded history for all joined channels, private groups, and direct messages.
